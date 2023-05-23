@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to the wiki for [Stagman](https://legacy.curseforge.com/members/Stagman/projects)'s Minecraft mod [Quirks Unchained](https://www.curseforge.com/minecraft/mc-mods/quirksunchained)!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This wiki is written and maintained by [RealSandy](https://github.com/realsandy) using a combination of Github Pages and Jekyll.
