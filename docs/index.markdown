@@ -12,7 +12,7 @@ permalink: /index.html/
 ## What is Quirks Unchained?
 **Quirks Unchained** (**QU**) is a Forge 1.19.2 Minecraft mod, inspired my the popular anime My Hero Academia!
 
-In this mod, players have access to 1 of 14 unique [Quirks](/quirks), each of which comes with its own unique ability set!
+In this mod, players have access to 1 of 14 unique [Quirks](/wiki/quirks), each of which comes with its own unique ability set!
 
 **QU** was created using [MCreator](https://mcreator.net), an easy-to-use but highly capable mod creation tool!
 
