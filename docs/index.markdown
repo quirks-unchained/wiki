@@ -7,8 +7,6 @@ title: Quirks Unchained Wiki
 permalink: /index.html/
 ---
 
-# Quirks Unchained Wiki
-
 ---
 
 ## What is Quirks Unchained?
