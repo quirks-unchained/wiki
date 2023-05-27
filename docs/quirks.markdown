@@ -30,5 +30,6 @@ There are currently 14 different **Quirks** in **QU**:
 
 ---
 [Home](/wiki/index.html) || [Quirks](/wiki/quirks) || [Quirk Levels](/wiki/quirk-levels) || [Syringes](/wiki/syringes) || [Page List](/wiki/pages)
+
 ---
  
