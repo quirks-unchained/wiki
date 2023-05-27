@@ -27,4 +27,5 @@ In this mod, players have access to 1 of 14 unique [Quirks](/wiki/quirks), each 
 
 ---
 [Home](/wiki/index.html) || [Quirks](/wiki/quirks) || [Quirk Levels](/wiki/quirk-levels) || [Syringes](/wiki/syringes) || [Page List](/wiki/pages)
+
 ---
