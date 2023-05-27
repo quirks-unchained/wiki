@@ -26,6 +26,6 @@ In this mod, players have access to 1 of 14 unique [Quirks](/wiki/quirks), each 
 [Callout's Curseforge Page (Modeller)](https://curseforge.com/members/callout662/projects)
 
 ---
-[Home](/wiki/index.html) || [Quirks](/wiki/quirks) || [Quirk Levels](/wiki/quirk-levels) || [Syringes](/wiki/syringes) || [Page List](/wiki/pages)
+**Home** || [Quirks](/wiki/quirks) || [Quirk Levels](/wiki/quirk-levels) || [Syringes](/wiki/syringes) || [Page List](/wiki/pages)
 
 ---
