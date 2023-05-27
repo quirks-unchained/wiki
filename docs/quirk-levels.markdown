@@ -5,3 +5,5 @@ permalink: /quirk-levels/
 ---
 
 ---
+
+# Quirk Levels
