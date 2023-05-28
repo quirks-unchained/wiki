@@ -30,7 +30,7 @@ There are currently 14 different **Quirks** in **QU**:
 * [Super Regen](./Super-Regen)
 
 ---
-[Home](/wiki/index.html) || **Quirks** || [Quirk Levels](/wiki/quirk-levels) || [Syringes](/wiki/syringes) || [Page List](/wiki/pages)
+[Home](/wiki/index.html) || **Quirks** || [Quirk Levels](/wiki/quirk-levels) || [Syringes](/wiki/syringes) || [Page List](/wiki/pages) || [About](/wiki/about)
 
 ---
  
