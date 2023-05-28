@@ -3,7 +3,6 @@ title: Quirks Unchained Wiki
 layout: default
 permalink: /index.html/
 ---
-
 ---
 
 ## What is Quirks Unchained?

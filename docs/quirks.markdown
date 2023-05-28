@@ -5,7 +5,6 @@ layout: default
 permalink: /quirks/
 
 ---
-
 ---
 
 # Quirks
