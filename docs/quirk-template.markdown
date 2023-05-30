@@ -8,7 +8,7 @@ permalink: /quirk-template/
 # Example Quirk
 
 <img src="./assets/SyringeInvisibility.png” alt="Invisibility Syringe Texture" width="64"/>
-![Invisibility Syringe Texture](./assets/SyringeInvisibility.png)
+![Invisibility Syringe Texture](./assets/SyringeInvisibility.png =64x64)
 
 | Quirk Name | Example |
 | ---------- | ------- |
