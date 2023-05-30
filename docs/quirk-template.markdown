@@ -7,7 +7,7 @@ permalink: /quirk-template/
 
 # Example Quirk
 
-<img src="https://quirks-unchained.github.io/wiki/assets/SyringeInvisibility.png” alt="Invisibility Syringe Texture" width=64/>
+<img src="./assets/SyringeInvisibility.png” alt="Invisibility Syringe Texture" width=64/>
 
 | Quirk Name | Example |
 | ---------- | ------- |
