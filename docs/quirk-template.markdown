@@ -7,7 +7,7 @@ permalink: /quirk-template/
 
 # Example Quirk
 
-<img src=“./assets/SyringeInvisibility.png” width=“64” height=“64” alt=“Invisibility Syringe” />
+<img src=“./assets/SyringeInvisibility.png” width=“64” height=“64” alt=“Invisibility Syringe”>
 
 | Quirk Name | Example |
 | ---------- | ------- |
