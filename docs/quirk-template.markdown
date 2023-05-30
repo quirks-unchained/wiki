@@ -7,12 +7,11 @@ permalink: /quirk-template/
 
 # Example Quirk
 
-<img src="https://raw.githubusercontent.com/quirks-unchained/wiki/main/docs/assets/SyringeInvisibility.png" width="160">
-
 | Quirk Name | Example |
 | ---------- | ------- |
 | Origin | Value |
 | Number of Abilities | Value |
+| Syringe | <img src="https://raw.githubusercontent.com/quirks-unchained/wiki/main/docs/assets/SyringeInvisibility.png" width="32"> |
 
 >Wiki Quote
 
