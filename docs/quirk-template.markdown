@@ -7,8 +7,7 @@ permalink: /quirk-template/
 
 # Example Quirk
 
-| Quirk Name | Example |
-| ---------- | ------- |
+| Name | Value |
 | Origin | Value |
 | Number of Abilities | Value |
 | Syringe | <img src="https://raw.githubusercontent.com/quirks-unchained/wiki/main/docs/assets/SyringeInvisibility.png" width="32"> |
