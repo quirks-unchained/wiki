@@ -7,6 +7,9 @@ permalink: /pages/
 
 # List of Wiki Pages
 
+---
+# Pages
+
 - [Home](/wiki/index.html)
 - [Quirks](/wiki/quirks)
     - [Air Cannon](/wiki/quirks/air-cannon)
