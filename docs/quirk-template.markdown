@@ -7,6 +7,7 @@ permalink: /quirk-template/
 
 # Example Quirk
 
+| | |
 | --- | --- |
 | Name | Value |
 | Origin | Value |
