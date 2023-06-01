@@ -31,9 +31,3 @@ permalink: /pages/
 - [About](/wiki/about)
 
 ---
-# Templates
-
-- [Page Template](/wiki/page-template)
-- [Quirk Template](/wiki/quirk-template)
-
----
