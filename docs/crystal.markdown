@@ -12,7 +12,7 @@ permalink: /quirks/crystal/
 | Name | Crystal |
 | Origin | Anime |
 | Number of Abilities | 2 |
-| Syringe | <img src="https://raw.githubusercontent.com/quirks-unchained/wiki/main/docs/assets/SyringeInvisibility.png" width="32"> |
+| Syringe | <img src="https://raw.githubusercontent.com/quirks-unchained/wiki/main/docs/assets/SyringeCrystal.png" width="32"> |
 
 > 
 
