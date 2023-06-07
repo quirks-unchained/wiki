@@ -22,6 +22,7 @@ There are currently 14 different **Quirks** in **QU**:
 * [Hardening](./hardening)
 * [Hellflame](./hellflame)
 * [Invisibility](./invisibility)
+* [Jet](./jet)
 * [Lightspeed](./lightspeed)
 * [Navel Laser](./navel-laser)
 * [Resizer](./resizer)
