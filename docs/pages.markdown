@@ -20,6 +20,7 @@ permalink: /pages/
     - [Hardening](/wiki/quirks/hardening)
     - [Hellflame](/wiki/quirks/hellflame)
     - [Invisibility](/wiki/quirks/invisibility)
+    - [Jet](/wiki/quirks/jet)
     - [Lightspeed](/wiki/quirks/lightspeed)
     - [Navel Laser](/wiki/quirks/navel-laser)
     - [Resizer](/wiki/quirks/resizer)
