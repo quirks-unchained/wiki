@@ -18,7 +18,7 @@ permalink: /quirks/danger-sense
 
 **Danger Sense** is one of the [Quirks](/wiki/quirks) available to the player in **QU**. **Danger Sense** is a unique [Quirk](/wiki/quirks), as it has no abilities.
 
-Instead, **Danger Sense** will display nearby hostile mobs in the corner of your screen, alerting you of the threat.
+Instead, **Danger Sense** will display nearby hostile mobs in the corner of your screen, alerting you to the threat.
 
 
 ---
